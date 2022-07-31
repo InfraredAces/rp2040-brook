@@ -12,10 +12,10 @@ C10,1u,C_0402_1005Metric,170.5,-82.45,0,top
 C11,100n,C_0402_1005Metric,168.2,-73.15,90,top
 C12,100n,C_0402_1005Metric,163.81,-86.6,-90,top
 C13,100n,C_0402_1005Metric,163.05,-71.63,90,top
-C14,100n,C_0402_1005Metric,158.9,-78.97,180,top
+C14,100n,C_0402_1005Metric,158.9,-78.97,$180.00,top
 C15,100n,C_0402_1005Metric,167.75,-83.65,-90,top
 C16,100n,C_0402_1005Metric,168.8,-83.65,-90,top
-J1,Conn_01x02_Female,PinSocket_1x02_P2.54mm_Vertical,107.68,-78.79,0,top
+J1,Conn_01x02_Female,PinHeader_1x03_P2.54mm_Vertical,107.68,-78.79,0,top
 J2,Conn_01x05_Female,PinSocket_1x05_P2.00mm_Vertical,102.66,-65.78,0,top
 J3,Screw_Terminal_01x20,Wago_734-150_1x20_P3.50mm_Vertical,174.27,-58.36,180,top
 J4,Conn_01x04_Female,PinSocket_1x04_P2.00mm_Vertical,151.77,-94.6,90,top

@@ -3,7 +3,7 @@ Comment,Designator,Footprint,LCSC
 "30p","C2,C3","Capacitor_SMD:C_0402_1005Metric","C1570"
 "100n","C5,C6,C7,C9,C11,C12,C13,C14,C15,C16","Capacitor_SMD:C_0402_1005Metric","C1525"
 "MountingHole","H1,H2,H3,H4","MountingHole:MountingHole_3.2mm_M3",""
-"Conn_01x02_Female","J1","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical",""
+"Conn_01x02_Female","J1","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
 "Conn_01x05_Female","J2,J5","Connector_PinSocket_2.00mm:PinSocket_1x05_P2.00mm_Vertical",""
 "Screw_Terminal_01x20","J3","Connector_Wago:Wago_734-150_1x20_P3.50mm_Vertical",""
 "Conn_01x04_Female","J4,J8","Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical",""
