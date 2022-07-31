@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+"MountingHole","H1,H2,H3,H4","MountingHole:MountingHole_3.2mm_M3",""
+"Conn_01x02_Female","J10","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+"Conn_01x05_Male","J2,J5","Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Vertical",""
+"Screw_Terminal_01x20","J3","Connector_Wago:Wago_734-150_1x20_P3.50mm_Vertical",""
+"Conn_01x04_Female","J4","Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical",""
+"Conn_01x04_Female","J6","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical",""
+"Conn_01x04_Male","J7","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
+"Conn_01x04_Male","J8","Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical",""
+"Conn_02x10_Odd_Even","J9","Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical",""
+"5.1k","R1,R2","Resistor_SMD:R_0402_1005Metric","C25905"
+"RP2040_Stamp","U1","RP2040_Stamp:RP2040_Stamp_SMD",""
+"HRO-TYPE-C-31-M-12","USB1","Type-C:HRO-TYPE-C-31-M-12-Assembly","C165948"

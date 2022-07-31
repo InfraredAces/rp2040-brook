@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J2,Conn_01x05_Male,PinHeader_1x05_P2.00mm_Vertical,102.655521,-65.799011,0,top
+J3,Screw_Terminal_01x20,Wago_734-150_1x20_P3.50mm_Vertical,174.27,-58.36,180,top
+J4,Conn_01x04_Female,PinSocket_1x04_P2.00mm_Vertical,151.77,-94.6,90,top
+J5,Conn_01x05_Male,PinHeader_1x05_P2.00mm_Vertical,138.745521,-94.619011,90,top
+J6,Conn_01x04_Female,PinSocket_1x04_P2.54mm_Vertical,172.93,-91.41,-90,top
+J7,Conn_01x04_Male,PinHeader_1x04_P2.54mm_Vertical,102.665521,-78.789011,0,top
+J8,Conn_01x04_Male,PinHeader_1x04_P2.00mm_Vertical,162.755521,-94.619011,90,top
+J10,Conn_01x02_Female,PinHeader_1x03_P2.54mm_Vertical,107.64,-78.78,0,top
+R1,5.1k,R_0402_1005Metric,182.4,-73.34,90,top
+R2,5.1k,R_0402_1005Metric,182.02,-77.59,180,top
+U1,RP2040_Stamp,RP2040_Stamp_SMD,147.26,-78.07,-90,top
+USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,191.9825,-76.035,90,top
