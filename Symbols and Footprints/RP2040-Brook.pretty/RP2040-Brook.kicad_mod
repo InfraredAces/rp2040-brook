@@ -28,7 +28,6 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c9124f5c-3b0e-49d8-a2da-4550c288a759)
   )
-  (fp_circle (center -43.54 17.59) (end -42.76 16.11) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 5fff68ca-16b8-4f1d-9fa5-9af28c697693))
   (fp_line (start -35.630096 -22.264554) (end 32.33704 -22.264554) (layer "Dwgs.User") (width 0.2) (tstamp 006e6a29-3bb9-4651-aaf9-f35188db69ae))
   (fp_line (start -11.992048 -12.836536) (end -11.992048 -13.465537) (layer "Dwgs.User") (width 0.2) (tstamp 00d47fc2-3725-459a-94cc-ff46960c9f7d))
   (fp_line (start 14.590001 15.300001) (end 14.533001 15.185) (layer "Dwgs.User") (width 0.2) (tstamp 0101b0cf-a590-4a13-a0ac-ff4ecee2788b))

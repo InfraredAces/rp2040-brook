@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "RP2040_Stamp")(type "KiCad")(uri "/home/kevinnguyen/Documents/rp2040-brook /Symbols and Footprints/RP2040Stamp.pretty/RP2040_Stamp.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "/home/kevinnguyen/Documents/rp2040-brook /Symbols and Footprints/Type-C.pretty")(options "")(descr ""))
+)

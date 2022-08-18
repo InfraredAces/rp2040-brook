@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "RP2040-Brook")(type "KiCad")(uri "/home/kevinnguyen/Documents/rp2040-brook /RP2040-Brook.pretty/RP2040-Brook.kicad_sym")(options "")(descr ""))
+)
