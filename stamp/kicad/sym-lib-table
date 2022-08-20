@@ -1,6 +1,6 @@
 (sym_lib_table
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/home/kevinnguyen/Documents/rp2040-brook /Symbols and Footprints/MCU_RaspberryPi_and_Boards.pretty/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
-  (lib (name "RP2040-Brook")(type "KiCad")(uri "/home/kevinnguyen/Documents/rp2040-brook /Symbols and Footprints/RP2040-Brook.pretty/RP2040-Brook.kicad_sym")(options "")(descr ""))
   (lib (name "RP2040_Stamp")(type "KiCad")(uri "/home/kevinnguyen/Documents/rp2040-brook /Symbols and Footprints/RP2040Stamp.pretty/RP2040_Stamp.kicad_sym")(options "")(descr ""))
   (lib (name "Type-C")(type "KiCad")(uri "/home/kevinnguyen/Documents/rp2040-brook /Symbols and Footprints/Type-C.pretty/Type-C.kicad_sym")(options "")(descr ""))
+  (lib (name "CRCW25125K10JNTG")(type "KiCad")(uri "/home/kevinnguyen/Documents/rp2040-brook /Symbols and Footprints/CRCW25125K10JNTG/CRCW25125K10JNTG.kicad_sym")(options "")(descr ""))
 )
